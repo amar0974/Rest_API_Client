@@ -14,8 +14,6 @@
 
 ## DESCRIPTION  ##
 
-**REST API Client for Codtech Internship**
-
 The **REST API Client** developed for the Codtech Internship is a versatile and user-friendly tool designed to simplify interaction with RESTful APIs for interns and developers. This utility enables users to send HTTP requests, handle responses, and process data efficiently, providing a practical learning platform for understanding API integration and web communication concepts during the internship.
 
 **Key Features**:

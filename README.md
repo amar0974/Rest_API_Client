@@ -34,3 +34,7 @@ Built as part of the Codtech Internship, this REST API Client serves as an educa
 - Fetching and processing data from public APIs for data-driven applications.
 - Learning API authentication and request-response workflows.
 - Automating API interactions for repetitive tasks or project integrations.
+  
+##OUTPUT##
+
+![Image](https://github.com/user-attachments/assets/4e12daea-07ba-40fa-a5f4-dfbca35b75e0)
